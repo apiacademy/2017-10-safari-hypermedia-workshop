@@ -1,4 +1,4 @@
-# 2017-07-safari-hypermedia-workshop
+# 2017-10-safari-hypermedia-workshop
 
 **Content for the October 12 &amp; 13  Learning Client Hypermedia ... workshop**
 
