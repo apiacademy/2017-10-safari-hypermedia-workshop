@@ -1,6 +1,6 @@
 # 2017-07-safari-hypermedia-workshop
 
-**Content for the July 17 &amp; 18 Learning Client Hypermedia ... workshop**
+**Content for the October 12 &amp; 13  Learning Client Hypermedia ... workshop**
 
 ### Handy Links
 * [Private Slack Channel](https://oreillyonlinetraining.slack.com/messages/G66CQBHCL/)
