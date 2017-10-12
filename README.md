@@ -5,7 +5,6 @@
 **Content for the October 12 &amp; 13  Learning Client Hypermedia ... workshop**
 
 ### Handy Links
-//* [Course Chat Channel]() *//
 
 * [Course Details](https://www.safaribooksonline.com/live-training/courses/learning-client-hypermedia-from-the-ground-up/0636920088219/)
 * [Course Repo](https://github.com/apiacademy/2017-10-safari-hypermedia-workshop/)
