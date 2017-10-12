@@ -3,9 +3,9 @@
 **Content for the October 12 &amp; 13  Learning Client Hypermedia ... workshop**
 
 ### Handy Links
-* [Private Slack Channel](https://oreillyonlinetraining.slack.com/messages/G66CQBHCL/)
-* [Course Details](https://www.safaribooksonline.com/live-training/courses/learning-client-hypermedia-from-the-ground-up/0636920081272/)
-* [Course Repo](https://github.com/apiacademy/2017-07-safari-hypermedia-workshop/)
+* [Private Slack Channel]()
+* [Course Details](https://www.safaribooksonline.com/live-training/courses/learning-client-hypermedia-from-the-ground-up/0636920088219/)
+* [Course Repo](https://github.com/apiacademy/2017-10-safari-hypermedia-workshop/)
 
 ### Sample Docs
 [Plain JSON Client API Docs](https://rwcbook.github.io/json-crud-docs/)
