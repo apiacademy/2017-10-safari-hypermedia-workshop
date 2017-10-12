@@ -1,5 +1,7 @@
 # 2017-10-safari-hypermedia-workshop
 
+[![Join the chat at https://gitter.im/2017-10-safari-hypermedia-workshop/Lobby](https://badges.gitter.im/2017-10-safari-hypermedia-workshop/Lobby.svg)](https://gitter.im/2017-10-safari-hypermedia-workshop/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **Content for the October 12 &amp; 13  Learning Client Hypermedia ... workshop**
 
 ### Handy Links
