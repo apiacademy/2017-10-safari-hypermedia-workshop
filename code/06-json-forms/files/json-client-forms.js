@@ -28,7 +28,7 @@ function json() {
   g.ctype = "application/json";
   
   // the only fields to process
-  g.fields = ["id","title","email","completed"];
+  g.fields = ["id","title","email","completed", "tags"];
   
   // init library and start
   function init(url, title) {

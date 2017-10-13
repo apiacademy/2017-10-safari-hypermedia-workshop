@@ -22,7 +22,7 @@ var utils = require('./connectors/utils.js');
 var root = '';
 var port = (process.env.PORT || 8181);
 var jsonType = 'application/json';
-var urlType = 'application/json;profile=urls';
+var formType = 'application/json;profile=forms';
 var csType = '';
 var csAccept = '';
 
@@ -36,7 +36,7 @@ function handler(req, res) {
 
   // set local vars
   root = '//'+req.headers.host;
-  csType = urlType;
+  csType = formType;
   flg = false;
   file = false;
   doc = null;
@@ -44,7 +44,7 @@ function handler(req, res) {
   // rudimentary accept-header handling
   csAccept = req.headers["accept"];
   if(!csAccept || csAccept.indexOf(csType)!==-1) {
-    csType = urlType;
+    csType = formType;
   }
   else {
     csType = csAccept.split(',')[0];

@@ -29,7 +29,7 @@ function json() {
   
   // the only fields to process
   // missing prompts, render rules, input validation, etc.
-  g.fields = ["id","title","email","completed"];
+  g.fields = ["id","title","email","completed","tags"];
   
   // init library and start
   function init(url, title) {
