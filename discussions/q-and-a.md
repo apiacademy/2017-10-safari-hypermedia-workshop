@@ -8,3 +8,6 @@ Serving data directly from the DB to the web is pretty tricky. Any change in the
 
 ### Isn't it better and efficient to make Id out of the template and use this template to send to the client. The client itself then uses the id to lookup the actual template cache it and consume it?
 'Better' might be debatable but that's certainly an option. This is essentially the POV of HAL designer, Mike Kelly. He doesn't think responses should include FORMS. Instead he likes to put that into code. Others have used an external format (like HAL-FORMS) to do the same thing. w/ HAL-FORMS, the actions are separate representations with their own unique resource ids (URLs) and clients cna chose to cache them separately to save space/time.
+
+### The format returned doesn't dictate the design/layout of the interaction
+For examples we are showing here that is correct. The the metadata about the actions does not include layout. HTML does it pretty much teh same way. The FORM has some default layout but that is not fixed. CSS can be used to modify the layout. If controlling layout is important (from the server) then CSS or something like that can be used, too.  I don't find may API servers that do that, tho.
